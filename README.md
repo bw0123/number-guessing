@@ -1,4 +1,4 @@
-# numberGuess
+# number-guessing
 A number guessing game.
 
 Users enter a number and click the "Check!" button. 
